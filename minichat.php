@@ -23,7 +23,7 @@
         <label for="pseudo">Pseudo</label> : <input type="text" name="pseudo" placeholder="pseudo" value="" />
         <label for="message">Message</label> : <input type="text" name="message" placeholder="message" value="" />
 
-        <input type="submit"name="valid" value="Envoyer le formulaire" />
+        <input type="submit"name="valid" value="Send" />
       </form>
 
 <?php
